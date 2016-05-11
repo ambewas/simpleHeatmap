@@ -1,0 +1,26 @@
+{
+  "name": "new_templateproj",
+  "version": "0.0.0",
+  "authors": [
+    "Kevin Decock <(null)>"
+  ],
+  "description": "template",
+  "main": "app/index.html",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/js/lib/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "~5.5.0",
+    "json3": "~3.3.2"
+  }
+}
